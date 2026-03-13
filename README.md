@@ -1,4 +1,4 @@
-# 📌 Unit Converter App
+# Unit Converter App
 
 ## **Introduction**
 Welcome to the **Unit Converter App**, a simple yet professional tool built using **Streamlit** in Python.  
@@ -14,36 +14,36 @@ Whether you’re a beginner or an advanced coder, this app will help you underst
 
 ---
 
-## 🔹 **Features**
-- ✅ Interactive **Streamlit UI**
-- ✅ Supports **Length** and **Temperature** conversions
-- ✅ Uses **lambda functions** for mathematical calculations (You Can Search and read it's docsfor more understanding) 
+##  **Features**
+-  Interactive **Streamlit UI**
+-  Supports **Length** and **Temperature** conversions
+-  Uses **lambda functions** for mathematical calculations (You Can Search and read it's docsfor more understanding) 
 
 ---
 
-## 🔹 **Installation**
+##  **Installation**
 To run this app, make sure you have **Python** installed. Then, follow these steps:
 
 1️⃣ Install Streamlit:
 ```sh
 pip install streamlit
 
-streamlit run UnitConverterApp.py
+https://unitconverterapp-by-husssain.streamlit.app
 
-## 🔹 **Usage**
+##  **Usage**
 Select a conversion category (Length or Temperature).
 Choose the input unit and output unit.
 Enter the value you want to convert.
 Click Convert to see the result.
 
-## 🔹 **Code Explanation**
+##  **Code Explanation**
 The app is built using Streamlit for a web-based interface.
 The conversion formulas are implemented using lambda functions for better efficiency.
 
-## 🔹 **Screenshots**
+##  **Screenshots**
 ![Image of Unit_Converter](image.png)
 
-## 🔹 Contributing
+##  Contributing
 If you would like to contribute:
 
 Fork the repository.
