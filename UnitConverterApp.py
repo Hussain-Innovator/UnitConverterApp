@@ -69,7 +69,7 @@ st.markdown(
 )
 
 # Streamlit UI elements and layout design for the app 
-st.title("🌟 Unit Converter App")
+st.title("Unit Converter App")
 st.markdown("<h2 style='text-align: center;'>Assignment 01</h2>", unsafe_allow_html=True)
 st.markdown(
     """
@@ -96,4 +96,4 @@ value = st.number_input("Enter Value", min_value=0.0, format="%.2f")
 
 if st.button("Convert"):
     result = convert_units(value, from_unit, to_unit)
-    st.write(f"🎯 Converted Value: **{result}**")
+    st.write(f"Converted Value: **{result}**")
